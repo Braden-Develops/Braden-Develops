@@ -1,4 +1,4 @@
-### Hi there 👋
+Life is software defined.
 
 <!--
 **Braden-Develops/Braden-Develops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
